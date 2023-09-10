@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequecyOfElements", "FrequecyOfElements.csproj", "{EBCA8223-4220-47AB-ACA9-EB1DD72C7DC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversString", "ReversString.csproj", "{5A1D37F2-9E89-4A2F-A905-8EF24FF2367C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EBCA8223-4220-47AB-ACA9-EB1DD72C7DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBCA8223-4220-47AB-ACA9-EB1DD72C7DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBCA8223-4220-47AB-ACA9-EB1DD72C7DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBCA8223-4220-47AB-ACA9-EB1DD72C7DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1D37F2-9E89-4A2F-A905-8EF24FF2367C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1D37F2-9E89-4A2F-A905-8EF24FF2367C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1D37F2-9E89-4A2F-A905-8EF24FF2367C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1D37F2-9E89-4A2F-A905-8EF24FF2367C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {298FB9EA-CDCA-4A46-96DD-871339C22C00}
+		SolutionGuid = {BC6170A7-9E49-4B46-870F-D88A15C4ADA8}
 	EndGlobalSection
 EndGlobal
